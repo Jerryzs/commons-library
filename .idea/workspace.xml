@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f64c1bfd-30ee-41b8-8af9-aff2254e395d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Commons Library" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Commons Library" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Commons Library" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Commons Library" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Commons Library" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1XjDDuX07jauEdEPZMFpdf4l03k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.ListViewWithCheckBox">
+    <configuration name="ListViewWithCheckBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cc.jerry.commons.javafx.ListViewWithCheckBox" />
+      <module name="Commons_Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cc.jerry.commons.javafx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Commons Library [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Commons Library [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Commons Library [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ListViewWithCheckBox" />
+        <item itemvalue="Gradle.Commons Library [build]" />
+        <item itemvalue="Gradle.Commons Library [assemble]" />
+        <item itemvalue="Gradle.Commons Library [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f64c1bfd-30ee-41b8-8af9-aff2254e395d" name="Default Changelist" comment="" />
+      <created>1581550493395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581550493395</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1361" y="-637" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581552322612">
+      <screen x="553" y="-1050" width="1920" height="1050" />
+    </state>
+    <state x="1361" y="-637" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.30.1714.1113/553.-1050.1920.1050@553.-1050.1920.1050" timestamp="1581552322612" />
+    <state x="1293" y="-771" key="FileChooserDialogImpl" timestamp="1581552658322">
+      <screen x="553" y="-1050" width="1920" height="1050" />
+    </state>
+    <state x="1293" y="-771" key="FileChooserDialogImpl/0.30.1714.1113/553.-1050.1920.1050@553.-1050.1920.1050" timestamp="1581552658322" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1581553227662">
+      <screen x="553" y="-1050" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.30.1714.1113/553.-1050.1920.1050@553.-1050.1920.1050" timestamp="1581553227662" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1581553227662">
+      <screen x="553" y="-1050" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.30.1714.1113/553.-1050.1920.1050@553.-1050.1920.1050" timestamp="1581553227662" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1581553227661">
+      <screen x="553" y="-1050" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.30.1714.1113/553.-1050.1920.1050@553.-1050.1920.1050" timestamp="1581553227661" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1581553227662">
+      <screen x="553" y="-1050" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.30.1714.1113/553.-1050.1920.1050@553.-1050.1920.1050" timestamp="1581553227662" />
+    <state x="993" y="-951" key="SettingsEditor" timestamp="1581553159493">
+      <screen x="553" y="-1050" width="1920" height="1050" />
+    </state>
+    <state x="993" y="-951" key="SettingsEditor/0.30.1714.1113/553.-1050.1920.1050@553.-1050.1920.1050" timestamp="1581553159493" />
+  </component>
+</project>
