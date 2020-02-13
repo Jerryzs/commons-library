@@ -46,7 +46,7 @@ public class OS {
 		case "windows":
 			return SystemType.WINDOWS;
 		case "macos": 
-			return SystemType.MAC_OS;
+			return SystemType.MACOS;
 		case "unix":
 			return SystemType.UNIX;
 		default: 
@@ -55,6 +55,6 @@ public class OS {
 	}
 	
 	public enum SystemType {
-		WINDOWS, MAC_OS, UNIX, UNKNOWN;
+		WINDOWS, MACOS, UNIX, UNKNOWN;
 	}
 }
